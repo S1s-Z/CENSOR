@@ -4,9 +4,9 @@ Hi, this is the code of our paper "Improving the Robustness of Distantly-Supervi
 
 ## News:
 
-Accepted by ACL 2023 Findings. 2023.05
+Accepted by ACL 2024 Findings. 2024.05
 
-Code released at Github. 2023.08
+Code released at Github. 2024.09
 
 ## Preparation
 
